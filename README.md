@@ -3,4 +3,4 @@ Kansalliskirjaston Kirjastoaineiston kuvailun ohjauksen tiimi kopioi kysymykset 
 
 Kysymyksiin vastataan lähtökohtaisesti kysyjältä saatujen tietojen perusteella, ilman aineistoa. Vastauksessa otetaan kantaa sekä kuvailutapaukseen että asiaan periaatteellisemmalla tasolla.
 
-Kansalliskirjasto kirjaa oman kantansa kommenttiketjuun. Kysymykset ja ehdotukset pyritään käsittelemään Kansalliskirjastossa kahden viikon kuluessa. Kysymyksestä tai ehdotuksesta seuraavat päivitystarpeet sovellusohjeisiin, tietomalleihin, sanastoihin ja kuvailusääntöjen linjauksiin mainitaan kommenteissa. Loppuunkäsitelty kysymys tai ehdotus merkitään suljettu-tilaan (issue closed).
+Ryhmä, jolle asian käsittely on vastuutettu, kirjaa oman kantansa/linjauksensa kommenttiketjuun. Kysymyksestä tai ehdotuksesta seuraavat päivitystarpeet sovellusohjeisiin, tietomalleihin, sanastoihin ja kuvailusääntöjen linjauksiin mainitaan kommentissa. Loppuunkäsitelty kysymys tai ehdotus merkitään suljettu-tilaan (issue closed).
